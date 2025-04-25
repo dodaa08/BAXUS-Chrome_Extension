@@ -1,0 +1,46 @@
+body {
+  width: 400px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 100%;
+}
+
+h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.loading {
+  text-align: center;
+  color: #666;
+  padding: 20px;
+}
+
+.result-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.price-comparison {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.savings {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.baxus-link {
+  display: block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+} 
